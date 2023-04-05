@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: neue-haas-grotesk-text, -apple-system, BlinkMacSystemFont, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #F5F5F5;
+}
+header{
+    background-color:rgb(20, 25, 30);
+    position: relative;
+    font-size: 26px;
+}
+.buscador{
+    position: absolute;
+    top: 50%;
+    left: 6%;
+    width: 200px;
+    height: 28px;
+
+}
+.ulHeader{
+    list-style-type: none;
+    position: absolute;
+    top: 50%;
+    left: 16%;
+
+}
+header .logoDestiny{
+    padding: 10px;
+    width: 4%;
+    height: 3%;
+}
+.header{
+    display: inline;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+main{
+    background-color: rgb(49, 49, 49);
+}
+#video-eclipse{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.destinyEclipse{
+    position:absolute;
+    top: 900px;
+    left: 500px;
+    width: 60%;
+    height: 20%;
+    
+}
+#ya-disponible{
+    top: 97%;
+    font-size: 60px;
+    text-align: center;
+} 
+footer{
+    position: relative;
+    background-color: rgb(20, 25, 30);
+    padding: 12%;
+}
+footer .logoDestiny{
+    position:absolute;
+    top: 70px;
+    left: 46%;
+    width: 7%;
+    height: 27%;
+}
+.redes-sociales{
+    position: absolute;
+    font-size: 90px;
+    list-style-type: none;
+    text-align: center;
+    top: 45%;
+    left: 0%;
+}
+#redes{
+    margin: 0px 0px 25px 0px;
+}
+.logoRedes{
+    display: inline;
+}
+.logo-redes-sociales{
+    width: 3%;
+    height: 3%;
+    margin: 20px;
+}
+#destiny-2{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+#juega-gratis{
+    position: absolute;
+    top:85%;
+    left: 70%;
+    font-size: 500%;
+    background-color: darkgoldenrod;
+    padding: 10px;
+    border: solid black;
+}
+#titulo-lore{
+    text-align: center;
+    font-size: 500%;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+.lore{
+    font-size: 200%;
+    display: inline-block;
+    padding: 2%;
+}
+.contacto{
+    display: block;
+    font-size: larger;
+    padding-left: 400px;
+    text-align: left;
+}
+.contacto2{
+    display: block;
+    font-size: larger;
+}
+.contacto1{
+    display: inline;
+    font-size: larger;
+}
+#bungie{
+    text-align: center;
+    font-size: 500%;
+    padding-top: 20px;
+    text-decoration: underline;
+}
