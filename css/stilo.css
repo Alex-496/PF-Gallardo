@@ -543,6 +543,26 @@ footer{
 
     /* FIN PAGINA CONTACTO  */
 
+        /* PAG LA HISTORIA DEL UNIVERSO DE DESTINY */
+
+    #titulo-lore{
+        text-align: center;
+        font-size: 240%;
+        padding: 3%;
+        padding-bottom: 1%;
+        text-decoration: underline;
+    }
+    .content__lore{
+        font-size: 125%;
+        margin: 0px 15%;
+        padding: 0px 2%;
+    }
+    .lore{
+        margin: 5% 0px;
+    }
+
+    /* FIN PAG LA HISTORIA DEL UNIVERSO DE DESTINY */
+
     /* FOOTER */
 
     footer{
