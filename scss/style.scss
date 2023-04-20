@@ -15,6 +15,7 @@ main{
 body{
     font-family: neue-haas-grotesk-text, -apple-system, BlinkMacSystemFont, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     color: #F5F5F5;
+    padding-top: 4%;
 }
 body{
     display: grid;
@@ -50,9 +51,9 @@ footer{
 
     .logoDestiny_header{
         height: auto;
-        width: 120px;
-        margin: 10px;
-        padding: 10px;
+        width: 80px;
+        margin: 2px;
+        padding: 2px;
     }
     header{
         font-size: 30px;
@@ -357,9 +358,9 @@ footer{
 
     .logoDestiny_header{
         height: auto;
-        width: 40px;
-        margin: 5px;
-        padding: 5px;
+        width: 50px;
+        margin: 2px;
+        padding: 2px;
     }
     header{
         font-size: 80%;
@@ -428,6 +429,7 @@ footer{
     /* PAGINA NUESTRA HISTORIA */
 
     .main_nuestra{
+        padding-top: 11%;
         display: flex;
         flex-wrap: wrap;
         display: grid;
